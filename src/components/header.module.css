@@ -1,0 +1,12 @@
+.header {
+  border: none;
+  color: white;
+  text-align: center;
+  background-color: purple;
+  font-size: 2em;
+  font-weight: 100;
+  padding: 10px;
+  /* margin: 10px; */
+  /* border-radius: 8px; */
+  box-shadow: 0 4px 6px rgba(77, 3, 77, 0.5);
+}

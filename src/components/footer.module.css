@@ -1,0 +1,15 @@
+.footer {
+  background-color: purple;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+.item {
+  color: white;
+  margin: 50px;
+}
